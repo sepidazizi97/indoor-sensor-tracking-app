@@ -1,7 +1,7 @@
-import Index from "./pages/Index";
+import IndoorSensorTracker from "./pages/Index";
 
 function App() {
-  return <Index />;
+  return <IndoorSensorTracker />;
 }
 
 export default App;
